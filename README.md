@@ -1,5 +1,7 @@
 # MSDS_Practicum_I
-Kaggle_LSST_Classification_Challenge
+
+## Kaggle_LSST_Classification_Challenge
+
 In partial fulfillment of the requirements for the degree of Master of Science in Data Science at Regis University, 
 the following Practicum I Project has been completed. 
 The project was to develop a supervised learning neural network that classifies astronomical objects based on 
