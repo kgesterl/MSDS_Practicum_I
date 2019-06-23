@@ -1,4 +1,4 @@
-# MSDS_Practicum_I: Kaggle_LSST_Classification_Challenge
+# MSDS Practicum I: Kaggle LSST Classification Challenge
 
 In partial fulfillment of the requirements for the degree of Master of Science in Data Science at Regis University, 
 the following Practicum I Project has been completed. 
