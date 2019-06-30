@@ -18,8 +18,8 @@ The datasets provided consist of four CSV files, two containing training data an
 
 ## Data Science Task
 
-For this project I chose to use a classification neural network. The first step was to perform exploratory data analysis (PLaSTiCC EDA.ipynb) to understand the features of the training and test data sets. Next, I tried a number of different methods to perform feature generation and selection based on the light curves of each object (PLaSTiCC Feature Selection.ipynb). Finally, I created a simple neural network model using supervised learning from the training set. With the final model, I made predictions for the test set.  I used Python and in Jupyter notebooks to perform all of the analyses.
+For this project I chose to use a classification neural network. The first step was to perform exploratory data analysis (PLaSTiCC EDA.ipynb) to understand the features of the training and test data sets. Next, I tried a number of different methods to perform feature generation and selection based on the light curves of each object (PLaSTiCC Feature Selection.ipynb). Finally, I created a simple neural network model using supervised learning from the training set. With the final model, I made predictions for the test set.  I used Python in Jupyter notebooks to perform all of the analyses.
 
 ## Data
 
-The datasets are not uploaded in this repository because of their size (the size of the test set is about 19 GB). All of the data is available via the Kaggle challenge website: https://www.kaggle.com/c/PLAsTiCC-2018 .
+The datasets are not uploaded in this repository because of their size. All of the data is available via the Kaggle challenge website: https://www.kaggle.com/c/PLAsTiCC-2018.
