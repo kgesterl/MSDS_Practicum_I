@@ -3,7 +3,9 @@
 In partial fulfillment of the requirements for the degree of Master of Science in Data Science at Regis University, 
 the following Practicum I Project has been completed. 
 The project was to develop a supervised learning neural network that classifies astronomical objects based on 
-light variance coming from the source over a specified observation timeframe.
+light variance coming from the source over a specified observation timeframe. 
+
+A presentation overview of the project is [here](https://youtu.be/b-u0gvMi_Gs)
 
 ## Scientific Motivation & Telescope Description 
 
